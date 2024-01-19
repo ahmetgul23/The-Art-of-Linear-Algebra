@@ -2,8 +2,6 @@ English ｜ [中文(简体)](README-zh-CN.md)
 
 # The-Art-of-Linear-Algebra
 
-
-
 The output file is "[The-Art-of-Linear-Algebra.pdf](The-Art-of-Linear-Algebra.pdf)"
 
 Japanese version "[The-Art-of-Linear-Algebra-j.pdf](The-Art-of-Linear-Algebra-j.pdf)"
